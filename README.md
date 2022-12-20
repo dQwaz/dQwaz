@@ -1,11 +1,9 @@
-Hi 👋 My name is Jozef
+Hi 👋 
 ======================
 
-I am currently a student in 3rd year, studying Cyber Security and Computer Networking at London Metropolitan University. My focus is more shifted to Red Team actions.
-
-* 🌍  I'm based in London
+I am currently a student in 3rd year, studying Cyber Security and Computer Networking at London Metropolitan University.
+* 🌍  I'm based in UK
 * 🚀  I'm currently working on [Discord bot for penetration testing](http://github.com/dQwaz)
-* 🧠  I'm learning Penetration Testing, Vulnerability Testing and Assessment and Networking
 
 ### Skills
 
